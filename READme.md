@@ -1,4 +1,4 @@
-# Work Day Scheduler
+# Day Planner
 
 The Work Day Scheduler is a simple calendar app for scheduling your work day. It allows you to plan and organize your tasks throughout the day.
 
